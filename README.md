@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Cleber Silva aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -22,27 +22,47 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
+Smart Revolution: A Era da IA em Nossa Vida Diária
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Video totalmente gerado por ferramentas de IA, falando um pouco sobre a própria Inteligencia Artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+[ChatGPT](https://chatgpt.com/)
+[D-ID](https://www.d-id.com/)
+[ElevenLabs](https://elevenlabs.io/)
+[Lexica.art](https://lexica.art/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+### 1º Passo: Criar o roteiro com o ChatGPT. 
+
+Prompt do Roteiro:
+aja como criador de conteúdo e crie um texto para uma breve apresentação em video feito por IA, com objetivo de falar sobre a inteligencia artificial e como ela pode servir aos seres humanos.
+Prompt do título:
+o titulo tem que ser relacionado ao exemplo de texto para uma breve apresentação.
+
+### 2º Passo: Escolher a imagem do video no Lexica.art
+
+### 3º Passo: criar o audio com resultado do prompt do roteiro no ElevenLabs.
+
+### 4º Passo: adicionar a imagem e o audio prontos no D-ID e esperar o resultado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+<html>
+<body>
+<video src="/exemplos/videoai.mp4">
+</body>
+</html>
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](/exemplos/audioai.mp3)
+- [Imagem](/exemplos/mulherai.png)
+- [Vídeo (Avatar Virtual)](/exemplos/videoai.mp4)
 
 ## Links Interessantes
 
