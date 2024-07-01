@@ -17,12 +17,9 @@ Olá pessoal, Cleber Silva aqui! Inspirado na hype _"Natty or Not"_ do fisicultu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
-Smart Revolution: A Era da IA em Nossa Vida Diária
+### Smart Revolution: A Era da IA em Nossa Vida Diária
 
 ## 📒 Descrição
 
@@ -50,17 +47,10 @@ o titulo tem que ser relacionado ao exemplo de texto para uma breve apresentaç�
 
 ### 4º Passo: adicionar a imagem e o audio prontos no D-ID e esperar o resultado.
 
-## 🚀 Resultados
 
-<html>
-<body>
-<video src="/exemplos/videoai.mp4">
-</body>
-</html>
+## Documentos e Resultado:
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/audioai.mp3)
+- [AUDIO-BOOK](/exemplos/audioai.mp3)
 - [Imagem](/exemplos/mulherai.png)
 - [Vídeo (Avatar Virtual)](/exemplos/videoai.mp4)
 
